@@ -1557,11 +1557,14 @@ code, pre {
   font-size: 16px;
   background-color: #61dafb;
   color: #000000;
-  padding: 10px 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   white-space: nowrap;
   transition: background-color 0.2s ease-out;
   -webkit-transition: background-color 0.2s ease-out;
   -moz-transition: background-color 0.2s ease-out;
+  width: 100%;
+  text-align:center;
 }
 .css-1053yfl:hover, [data-css-1053yfl]:hover {
   background-color: #ffffff;
